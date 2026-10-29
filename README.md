@@ -1,2 +1,2 @@
 # Githubpractical
-secont repository
+second repository
